@@ -1,0 +1,5 @@
+{
+  "name": "Opus 3.0 Infinite Mid - AI Composer",
+  "description": "An advanced music composition and analysis platform powered by Gemini 3 Pro. Generate ABC notation, visualize scores, and perform deep musicological analysis.",
+  "requestFramePermissions": []
+}
